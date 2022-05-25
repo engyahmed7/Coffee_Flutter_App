@@ -1,4 +1,4 @@
-# coffee
+# Coffee Mobile Application
 
 A new Flutter project.
 
